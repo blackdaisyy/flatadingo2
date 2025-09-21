@@ -9,13 +9,13 @@ You use git clone to be able to download the documents the documents in the GitH
 Git
 # Installation instruction 
 
-https://github.com/blackdaisyy/Flatadango.git
+https://github.com/blackdaisyy/flatadingo2.git
 # Technologies used
 HTML
 CSS
 GIT HUB
 JAVASCRIPT
 # Support contact details
-https://github.com/blackdaisyy/Flatadango.git
+https://github.com/blackdaisyy/flatadingo2.git
 # License 
 The content of this site is licensed under the MIT license copyright (C) 2025
